@@ -3,10 +3,10 @@ function toggleMenu() {
   nav.classList.toggle('active');
 }
 const phrases = [
-  ",I'm a Web Developer..",
-  ",React Enthusiast..",
-  ",Problem Solver..",
-  ",Frontend Designer..",
+  "I'm a Web Developer",
+  "React Enthusiast",
+  "Problem Solver",
+  "Frontend Designer",
 ];
 
 let currentPhraseIndex = 0;
